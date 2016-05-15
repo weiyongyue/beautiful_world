@@ -24,5 +24,6 @@ Find.find("E:\\迅雷下载") do |filename|
   multimedea_file_filter(filename)
 end
 
+puts "hello world"
 $trans.close
 
